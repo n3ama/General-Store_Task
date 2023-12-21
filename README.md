@@ -1,6 +1,7 @@
 # General-Store_Task
 
-*Very Important Note*  You need to add the app.apk file path in App_Path variable before running App_Product Testcase.
+*Very Important Note* 
+You need to add the app.apk file path in App_Path variable before running App_Product Testcase.
 
 " Test cases/Add_Product "
 
